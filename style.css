@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/dominik-lange-Lej_oqHljbk-unsplash.jpg") top right no-repeat;
+  background: #040404 url("dominik-lange-Lej_oqHljbk-unsplash.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
